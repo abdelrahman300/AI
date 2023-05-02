@@ -6,7 +6,7 @@
 Artificial Intelligence became one of the most prevalent topics in 2023. AI is here to stay thanks to its practical applications in many industries and in our daily life. That’s why you should prepare better for our technological future by reading top Artificial Intelligence books so in this <u>repo </u>I will try to summary one of the best books for  beginners <a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/">Handa-on Machine Learning with Scikit-Learn,Keras& TensorFlow</a>  based on  My educational journey for AI and I will try make it very simple to understand <br>
 ![content](https://user-images.githubusercontent.com/62572088/235645190-7684682b-a563-442f-a5ac-0da5afa798c7.jpeg)
 
-<h2>This book divide into 2 parts</h2>
+<h2>This book is divided into two parts</h2>
 <dl>
   <dt>The fundemental of Machine Learning</dt>
   <dd>-The Machine Learning Landscape </dd>

@@ -22,10 +22,11 @@ Artificial Intelligence became one of the most prevalent topics in 2023. AI is h
   <dd>-Introduction to Arificial Neural Networks with Keras</dd>
   <dd>-Training Deep Neural Networks</dd>
   <dd>-Custom Models and Training with Tensorflow</dd>
-  <dd>-Loaeding and Preprocessing Data with Tensorflow </dd>
+  <dd>-Loading and Preprocessing Data with Tensorflow </dd>
   <dd>-Deep Computer Vision Using Convolution Neural Networks </dd>
   <dd>-Processing Sequences Using RNNs &CNNs</dd>
   <dd>-Natural Language Processing with RNNs and Attention </dd>
   <dd>Representation Learning and Generative Learning Using Autoencoders and GANs</dd>
   <dd>Reinforcement Learning</dd>
+  <dd>Training and Deployment Tensorflow models at scale  </dd>
 </dl>

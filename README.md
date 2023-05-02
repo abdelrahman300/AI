@@ -30,5 +30,5 @@ Artificial Intelligence became one of the most prevalent topics in 2023. AI is h
   <dd>Reinforcement Learning</dd>
   <dd>Training and Deployment Tensorflow models at scale  </dd>
 </dl>
-<h4>In this Repo you will find two files ML (part 1) & DL (part2) .I will give some resources to understant technical topics </h2>
+# In this Repo you will find two files ML (part 1) & DL (part2) .I will give some resources to understant technical topics 
 # ! Good Luck :)

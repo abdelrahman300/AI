@@ -14,4 +14,7 @@ A human brain has billions of neurons. Neurons are interconnected nerve cells in
   ![diagram-for-general-view-of-artificial-neuron_2](https://user-images.githubusercontent.com/62572088/235952952-24874b04-88c5-40e6-8e2d-a7143fd1d818.JPG)
   # Biological Neuron vs. Artificial Neuron
   ![1_BRRH7w1DaPkThDHERNv5Ig](https://user-images.githubusercontent.com/62572088/235954566-f783c4c5-bec6-4b90-9e70-decff51568f6.png)
-
+# The Perceptron
+ The Perceptron is one of the simplest ANN architecture ,invented in 1957 iby frank Rosenblatt.it is based on a slightly different artificial neuron  called a threshold logic unit (TLU),or something a linear threshold unit (LTU) A Perceptron is an algorithm for supervised learning of binary classifiers. This algorithm enables neurons to learn and processes elements in the training set one at a time.
+  
+![general-diagram-of-perceptron-for-supervised-learning_4](https://user-images.githubusercontent.com/62572088/235954997-994bd0cc-4514-4eae-8943-e7b53c4eb630.jpg)

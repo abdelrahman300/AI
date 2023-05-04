@@ -11,7 +11,7 @@ A human brain has billions of neurons. Neurons are interconnected nerve cells in
   An artificial neuron is a mathematical function based on a model of biological neurons, where each neuron takes inputs, weighs them separately, sums them up and passes this sum through a nonlinear function to produce output.
   
   
-  ![diagram-for-general-view-of-artificial-neuron_2](https://user-images.githubusercontent.com/62572088/235952952-24874b04-88c5-40e6-8e2d-a7143fd1d818.JPG)
+![vector-scientific-tech-icon-structure-600w-1390920110](https://user-images.githubusercontent.com/62572088/236154280-14b9bd4c-62eb-4658-958b-fc8cfc714a2b.jpg)
   # Biological Neuron vs. Artificial Neuron
   ![1_BRRH7w1DaPkThDHERNv5Ig](https://user-images.githubusercontent.com/62572088/235954566-f783c4c5-bec6-4b90-9e70-decff51568f6.png)
 # The Perceptron
@@ -23,5 +23,9 @@ There are many functions u will see in DL .IF you want to learn more about The P
 know you can see the implementation of The Perceptron <b>prec.ipynb</b>
   
 ![Perceptron_36](https://user-images.githubusercontent.com/62572088/235965311-5b166472-6308-40b2-b1c5-309aa3d71480.jpg)
+
 in fact ,Scikit-Learn's perceptron class is equivelent to using  an SGDClassifier with some specific paramenters 
 in 1969 they found number of weakness of perceprtons .They are incaple of solving some trivial problems (e.g,The Exclusive OR(XOR))classification problem.They found that limitations of Perceptrons can by eliminated by stacking Multilayer  Perceptron(MLP)
+# the Multiplayer Perceptron & Backprobagation 
+An MLP is compused of one (Passthrough) input layer ,one or more layers fo TLUs,called hidden layers of TLUs called output layer 
+![multi-layer-perceptron-in-tensorflow (2)](https://user-images.githubusercontent.com/62572088/236154973-5783f644-eddd-4657-b37f-4223d617e76e.png)

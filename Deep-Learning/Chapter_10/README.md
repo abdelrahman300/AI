@@ -20,7 +20,8 @@ A human brain has billions of neurons. Neurons are interconnected nerve cells in
 ![general-diagram-of-perceptron-for-supervised-learning_4](https://user-images.githubusercontent.com/62572088/235954997-994bd0cc-4514-4eae-8943-e7b53c4eb630.jpg)
 The most common step function used in perceptrons is Heavise step funtion .Sometimes the sign  function is used insted .
 There are many functions u will see in DL .IF you want to learn more about The Perceptron .You can see this <a href="https://www.simplilearn.com/tutorials/deep-learning-tutorial/perceptron#biological_neuron">The Perceptron</a>
-![Perceptron_36](https://user-images.githubusercontent.com/62572088/235965311-5b166472-6308-40b2-b1c5-309aa3d71480.jpg)
 know you can see the implementation of The Perceptron <b>prec.ipynb</b>
+  
+![Perceptron_36](https://user-images.githubusercontent.com/62572088/235965311-5b166472-6308-40b2-b1c5-309aa3d71480.jpg)
 in fact ,Scikit-Learn's perceptron class is equivelent to using  an SGDClassifier with some specific paramenters 
 in 1969 they found number of weakness of perceprtons .They are incaple of solving some trivial problems (e.g,The Exclusive OR(XOR))classification problem.They found that limitations of Perceptrons can by eliminated by stacking Multilayer  Perceptron(MLP)

@@ -39,10 +39,6 @@ You can read notebooks now ,there are 2 notebooks for classification & regressio
 ![overfitting_2](https://user-images.githubusercontent.com/62572088/236785194-825442c6-fa1e-4c19-8530-c5dc21d2e19a.png)
 # Learning rate 
 ![284042](https://user-images.githubusercontent.com/62572088/236785791-76f29703-cf73-40fd-ae04-9c30a3ca4758.jpg)
-
-  
-![Good-luck-805x300](https://user-images.githubusercontent.com/62572088/236786509-c48bf4c7-9758-4c59-a9fb-c5f0382f2705.jpg)
-  
  # Good LUCK :)
 
 

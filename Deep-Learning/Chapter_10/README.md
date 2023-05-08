@@ -33,7 +33,7 @@ An MLP is compused of one (Passthrough) input layer ,one or more layers fo TLUs,
 First ,MLPs can be used for regression tasks if you wnat to predict a single value (e.g,the price of a house ).You can use the ReLu activation function ReLu(z)=max(0,z),Alternatively you can use the softplus(z)=log(1+exp(z)).it is close to zero when z is negative and close to z when  z is positive 
   
 MLPs can be used for classification  tasks ,as well . if you wnat to classify email smap or ham  .You can use the sigmoid tion function sig(z)=1/(1+exp(-z) or using Softmax .he softmax function will output a probability of class membership for each class label and attempt to best approximate the expected target for a given input.
-# we finished from chapter_10 
+# We finished the  chapter 10
 You can read notebooks now ,there are 2 notebooks for classification & regression (very simple models & I explained everythink to help u understand them).there are some important notes: <b>Huperparameters</b> it's very important topic .it will help you to improve tou model to avoid high bais(underfitting) & high variance(overfitting ) &choosing the best learning rate(alpha ) to reach out optimal weights.
 # Overfitting and Underfitting
 ![overfitting_2](https://user-images.githubusercontent.com/62572088/236785194-825442c6-fa1e-4c19-8530-c5dc21d2e19a.png)
@@ -41,4 +41,8 @@ You can read notebooks now ,there are 2 notebooks for classification & regressio
 ![284042](https://user-images.githubusercontent.com/62572088/236785791-76f29703-cf73-40fd-ae04-9c30a3ca4758.jpg)
 
   
+![Good-luck-805x300](https://user-images.githubusercontent.com/62572088/236786509-c48bf4c7-9758-4c59-a9fb-c5f0382f2705.jpg)
+  
+ # Good LUCK :)
+
 

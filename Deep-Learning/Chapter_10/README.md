@@ -33,3 +33,7 @@ An MLP is compused of one (Passthrough) input layer ,one or more layers fo TLUs,
 First ,MLPs can be used for regression tasks if you wnat to predict a single value (e.g,the price of a house ).You can use the ReLu activation function ReLu(z)=max(0,z),Alternatively you can use the softplus(z)=log(1+exp(z)).it is close to zero when z is negative and close to z when  z is positive 
   
 MLPs can be used for classification  tasks ,as well . if you wnat to classify email smap or ham  .You can use the sigmoid tion function sig(z)=1/(1+exp(-z) or using Softmax .he softmax function will output a probability of class membership for each class label and attempt to best approximate the expected target for a given input.
+# we finished from chapter_10 
+<p>You can read notebooks now ,there are 2 notebooks for classification & regression (very simple models & I explained everythink to help u understand them).there are some important notes: <b>Huperparameters</b> it's very important topic .it will help you to improve tou model to avoid high bais(underfitting) & high variance(overfitting ) .</p>
+![overfitting_2](https://user-images.githubusercontent.com/62572088/236785194-825442c6-fa1e-4c19-8530-c5dc21d2e19a.png)
+

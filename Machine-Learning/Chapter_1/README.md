@@ -10,5 +10,33 @@ Machine leanring is the sciecne of programming computers so they can learn from 
  <h1> Types of Machine Learning systems:</h1>
  <img width="467" alt="TypesOfMachineLearning" src="https://github.com/abdelrahman300/AI/assets/62572088/5b6cdf09-4afd-41b5-9b2d-88613c1d02aa">
  <p>Supervised : the traing set you feed to the algorithm includes the desired solutions called label </p>
+ <h2>The most important supervised learning algorithms </h2>
+<ul>
+  <li>K-Nearest Neighbors</li>
+  <li>Linear Regression </li>
+  <li>Logistic Regression</li>
+ <li>Support Vector Machines (SVMs)</li>
+ <li>Decision Trees and Random forests </li>
+ <li>Neural networks</li>
+</ul>  
+ <p>unSupervised : the traing set is unlabeled </p>
+ <h2>The most important supervised learning algorithms </h2>
+<dl>
+  <dt>Clustering </dt>
+  <dd>- K-means</dd>
+  <dd>DBSCAN</dd>
+ <dt>Anomalt detection and novelty detection </dt>
+  <dd>- One-class SVM</dd>
+  <dd>- Isolation forest </dd>
+  <dt>Visualizaion and dimensionality reduction</dt>
+  <dd>- PCA</dd>
+  <dd>- Kernel PCA </dd>
+  <dd>- Locally linear Embedding</dd>
+  <dd>- t-SNE</dd>
+ <dt>Association rule learning  </dt>
+  <dd>- Apriori</dd>
+  <dd>Eclat/dd>
+</dl>
+
  ![supervised-machine-learning-1](https://github.com/abdelrahman300/AI/assets/62572088/ba36e588-f7a6-41aa-b9b4-183a42a8f2b9)
  

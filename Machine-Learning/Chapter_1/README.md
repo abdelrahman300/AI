@@ -7,7 +7,7 @@ Machine leanring is the sciecne of programming computers so they can learn from 
  <p>Problems for which exicting solutions require a lot of fine-tuning or long list of rules :one ML algorithm can often simplify code and perform better than the traditional approach</p>
  <p>Complex problems for which using a traditional approach yielda no good solution :the beat ML techniques can perhaps find a solution </p>
  <p>Getting insights about complex problems and large amount of data</p>
- <p>ML applications: </p>
+ # ML applications: 
  ![applications-of-machine-learning](https://github.com/abdelrahman300/AI/assets/62572088/2395fb84-e74d-497f-997c-c389de145a82)
  <h1> Types of Machine Learning systems:</h1>
  <img width="467" alt="TypesOfMachineLearning" src="https://github.com/abdelrahman300/AI/assets/62572088/5b6cdf09-4afd-41b5-9b2d-88613c1d02aa">

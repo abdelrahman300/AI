@@ -9,6 +9,6 @@ Machine leanring is the sciecne of programming computers so they can learn from 
  <p>Getting insights about complex problems and large amount of data</p>
  <h1> Types of Machine Learning systems:</h1>
  <img width="467" alt="TypesOfMachineLearning" src="https://github.com/abdelrahman300/AI/assets/62572088/5b6cdf09-4afd-41b5-9b2d-88613c1d02aa">
- Supervised : the traing set you feed to the algorithm includes the desired solutions called label
+ <p>Supervised : the traing set you feed to the algorithm includes the desired solutions called label </p>
  ![supervised-machine-learning-1](https://github.com/abdelrahman300/AI/assets/62572088/ba36e588-f7a6-41aa-b9b4-183a42a8f2b9)
  

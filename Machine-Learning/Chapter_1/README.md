@@ -40,4 +40,14 @@ Machine leanring is the sciecne of programming computers so they can learn from 
 <h1> Batch learning vs Online learning :</h1>
 <P>Batch learning, also known as offline learning, involves training a model on a fixed dataset, or a batch of data, all at once. The model is trained on the entire dataset, and then used to make predictions on new data. This means that batch learning requires a complete dataset before training can begin, and the model cannot be updated once it has been trained without retraining the entire model. Batch learning is commonly used in situations where the dataset is relatively small and can be processed quickly.<p>
 <p>On the other hand, online learning, also known as incremental learning or streaming learning, involves training a model on new data as it arrives, one observation at a time. The model is updated each time a new observation is received, allowing it to adapt to changes in the data over time. Online learning is commonly used in situations where the data is too large to be processed all at once, or where the data is constantly changing, such as in stock market data or social media data.</p>
+# 
  
+ <dl>
+  <dt>Main Challenges of Machine learning  :</dt>
+  <dd>- insufficinet Quantity of training Data </dd>
+  <dd>- Nonrepresentative Trainign Data </dd>
+  <dd>- poor-Quality Data</dd>
+  <dd>- Irrelevant Features </dd>
+  <dd>- Overfiting the training Data</dd>
+  <dd>- Underfiting the training Data</dd>
+  <dd>DBSCAN</dd>

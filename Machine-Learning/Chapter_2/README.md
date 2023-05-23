@@ -18,3 +18,6 @@ Your next step is to select a performance measure .A typical performance measure
 
 ![mse_5](https://github.com/abdelrahman300/AI/assets/62572088/873f690e-1efb-4689-8c5d-75da78e025a0)
 
+# Even though the RMSE is generally the preferred performance measure for regression tasks in some contexts you may prefer to use another function .for example ,suppose that there are many outlier districts .in this case ,you may consider using the mean absoulute error 
+
+![download (20)](https://github.com/abdelrahman300/AI/assets/62572088/f17030ec-888c-42f4-bed0-6c182ec5a892)

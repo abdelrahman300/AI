@@ -15,5 +15,6 @@ Welcome to the ML Housing Coporation ! your first task is to use california cens
 the first question to ask your boss is what exactly the business objective is building a model is probably not the end goal .How does the company expect to use and benefit from this model ?knowing the objective is importna t because it will determine how you frame the problem ,which algorithms you will select ,which performance measure you will use to evaluate your model ,and how much effort you will spend tweaking it .First,,you need to frame the problem :is it supervised ,unsupervised ,or Reinforcement Learning ?is it classification task, aregression task ,or something else ?shoud you sue batch learning or online learning techniques?
 # Select a performance measure 
 Your next step is to select a performance measure .A typical performance measure for regression problems is the Root Mean Square Error(RMSE).it gives an idea of how much error the system typically makes in its predictions with a higher weight for large error 
+
 ![mse_5](https://github.com/abdelrahman300/AI/assets/62572088/873f690e-1efb-4689-8c5d-75da78e025a0)
 
